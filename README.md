@@ -2,8 +2,9 @@
 
 Project : Text to SQL query converter with Gemini Pro 
 
-Description: The main goal of this project is to create a chatbot using streamlit interface where we can ask the chatbot in natural language to retrieve data 
-from a SQLite database.
+Description: The main goal of this project is to create a chatbot using streamlit interface where we can ask the chatbot in natural language to retrieve data from a SQLite database.
+
+Find the youtube demo link here: [YouTube Demo](https://youtu.be/HacOmjOQcBo?si=dQmJg4qUdlFq2wRa)
 
 
 <img width="536" alt="text-to_SQL_architecture" src="https://github.com/user-attachments/assets/ef834a89-8742-4c64-9a6a-2b46cb8b1c1d">
