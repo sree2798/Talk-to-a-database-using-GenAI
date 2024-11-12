@@ -18,10 +18,11 @@ SQLite database → we will insert some records by using python programming lang
 LLM application →  This LLM application will communicate with the GeminiPro and Geminipro will communicate with the SQLite database to give the response 
 Steps: 
 1) The first step is to create an environment 
-		Open New terminal in VS code, type 
-conda create -p venv python==3.10 -y 
-2) Execute  conda activate venv/  (The path will be changed to inside the virtual environment)
-3) Create requirements.txt file (it basically says what libraries do I require)
+		Open New terminal in VS code and execute
+```conda create -p venv python==3.10 -y``` 
+2) Execute
+conda activate venv/  (The path will be changed to inside the virtual environment)
+4) Create requirements.txt file (it basically says what libraries do I require)
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/53b2bfbc-b789-4e1a-8a9d-c02b6f4e6330">
 
